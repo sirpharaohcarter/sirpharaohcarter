@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sir-pharaoh-carter">
-    <img src="https://shields.io" alt="🔹 Visit My LinkedIn Profile 🔹" width="1000">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="🔹 Visit My LinkedIn Profile 🔹">
   </a>
 </p>
 

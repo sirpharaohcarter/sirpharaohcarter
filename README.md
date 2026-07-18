@@ -10,12 +10,15 @@
 * 💻 **CS is okay**—mostly using it to do side projects when I'm bored
 * 🧪 Currently focused on developing **chem-wave**.
 
+
+
+<h2 align="center">Contact</h2> 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sir-pharaoh-carter">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="🔹 Visit My LinkedIn Profile 🔹">
   </a>
 </p>
-
 
 ### 💻 Languages
 <p align="left">
@@ -26,10 +29,8 @@
 
 ### 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Pharaoh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+***tbd***
+ 
 
 <!--
 **sirpharaohcarter/sirpharaohcarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,11 +2,11 @@
 
  * Student at TJHSST
  * CS is ok
- * Working on chem-wave
+ * Currently working on chem-wave
 
 <p align="center">
   <a href="www.linkedin.com/in/sir-pharaoh-carter">
-    <img src="https://shields.io" alt="LinkedIn Profile">
+    <img src="https://shields.io" alt="🔹 Visit My LinkedIn Profile 🔹">
   </a>
 </p>
 

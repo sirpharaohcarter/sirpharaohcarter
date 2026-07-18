@@ -1,8 +1,8 @@
 <h1 align="center">🌊 Hello, I'm Sir Pharaoh ☀️</h1> 
 
- * Student at TJHSST
- * CS is ok
- * Currently working on chem-wave
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Student+at+TJHSST;CS+is+okay...;Working+on+chem-wave" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sir-pharaoh-carter">

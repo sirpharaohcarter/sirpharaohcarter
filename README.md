@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1 align="center">🌊 Hello, I'm Sir Pharaoh ☀️</h1> 
+
+ * Student at TJHSST
+ * CS is ok
+ * Working on chem-wave
+
+<p align="center">
+  <a href="www.linkedin.com/in/sir-pharaoh-carter">
+    <img src="https://shields.io" alt="LinkedIn Profile">
+  </a>
+</p>
 
 <!--
 **sirpharaohcarter/sirpharaohcarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
